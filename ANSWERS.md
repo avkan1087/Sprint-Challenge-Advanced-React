@@ -1,4 +1,8 @@
 - [ ] Why would you use class component over function components (removing hooks from the question)?
+--- state 
 - [ ] Name three lifecycle methods and their purposes.
+--- componentDidMount , componentDidUpdate , componentWillUnmount 
 - [ ] What is the purpose of a custom hook?
+---- make your own reusable hooks 
 - [ ] Why is it important to test our apps?
+---- make sure everthing work correctly 
